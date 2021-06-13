@@ -17,6 +17,6 @@ Code solutions to the [Ethernaut](https://ethernaut.openzeppelin.com/) Smart Con
 
 ## [Walkthrough [#3]](https://aleksandar-had.medium.com/ethernaut-walkthrough-3-f1e3966f8c29)
 
-- [Level 8 - Vault](Level-8-Vault/solution.md))
+- [Level 8 - Vault](Level-8-Vault/solution.md)
 - [Level 9 - King](Level-9-King/solution.md)
 - [Level 10 - Re-entrancy](Level-10-Re-entrancy/solution.md)
