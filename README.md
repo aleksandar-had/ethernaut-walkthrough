@@ -14,3 +14,9 @@ Code solutions to the [Ethernaut](https://ethernaut.openzeppelin.com/) Smart Con
 - [Level 5 - Token](Level-5-Token/solution.md)
 - [Level 6 - Delegation](Level-6-Delegation/solution.md)
 - [Level 7 - Force](Level-7-Force/solution.md)
+
+## [Walkthrough [#3]](https://aleksandar-had.medium.com/ethernaut-walkthrough-3-f1e3966f8c29)
+
+- [Level 8 - Vault](Level-8-Vault/solution.md))
+- [Level 9 - King](Level-9-King/solution.md)
+- [Level 10 - Re-entrancy](Level-10-Re-entrancy/solution.md)
