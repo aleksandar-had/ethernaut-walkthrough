@@ -20,3 +20,9 @@ Code solutions to the [Ethernaut](https://ethernaut.openzeppelin.com/) Smart Con
 - [Level 8 - Vault](Level-8-Vault/solution.md)
 - [Level 9 - King](Level-9-King/solution.md)
 - [Level 10 - Re-entrancy](Level-10-Re-entrancy/solution.md)
+
+## [Walkthrough [#4]](https://aleksandar-had.medium.com/ethernaut-walkthrough-4-796c59b842bd)
+
+- [Level 11 - Elevator](Level-11-Elevator/solution.md)
+- [Level 12 - Privacy](Level-12-Privacy/solution.md)
+- [Level 13 - Gatekeeper One](Level-13-Gatekeeper-One/solution.md)
